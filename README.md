@@ -10,4 +10,4 @@ The script demonstrates how to use Puppeteer to automate web scraping tasks, acc
 ## npm install puppeteer
 
 
-##node scrape.js
+## node scrape.js
